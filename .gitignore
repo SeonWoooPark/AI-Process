@@ -1,0 +1,5 @@
+# gemini 설정 폴더 제외
+.gemini/
+
+# obsidian 폴더 제외
+.obsidian/
